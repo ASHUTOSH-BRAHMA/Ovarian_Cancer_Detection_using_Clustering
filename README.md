@@ -1,4 +1,4 @@
-#🧬 Ovarian Cancer Detection Using DenseNet121 & Unsupervised Clustering
+# Ovarian Cancer Detection Using DenseNet121 & Unsupervised Clustering
 
 This project presents a fully automated deep-learning pipeline for classifying ovarian cancer images using DenseNet121, K-Means clustering, and transfer learning. Designed for unlabeled medical datasets, the system generates pseudo-labels through clustering and trains a powerful classifier capable of detecting cancer patterns without manually annotated data.
 
