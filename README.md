@@ -30,8 +30,6 @@ Full fine-tuning with low learning rate
 ├── final_ovarian_densenet121.h5
 ├── ovarian_cancer_detection.ipynb
 └── README.md!
-[Uploading Gemini_Generated_Image_5w8fel5w8fel5w8f.png…]()
-
 
 🧠 Pipeline Overview
 1. Feature Extraction
@@ -47,6 +45,8 @@ Categorical cross-entropy
 80/20 train-validation split
 5. Fine-Tuning
 DenseNet121 is unfrozen and fine-tuned with a lower learning rate.
+
+<img width="1024" height="769" alt="densenet" src="https://github.com/user-attachments/assets/daea455c-3b0c-453b-a97c-614e483d96d2" />
 
 ▶️ Usage
 Run the notebook:
