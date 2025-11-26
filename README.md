@@ -1,4 +1,4 @@
-# Ovarian Cancer Detection Using DenseNet121 & Unsupervised Clustering
+<img width="1024" height="1024" alt="Gemini_Generated_Image_5w8fel5w8fel5w8f" src="https://github.com/user-attachments/assets/764c1e06-6172-4415-a034-88f721137147" /># Ovarian Cancer Detection Using DenseNet121 & Unsupervised Clustering
 
 This project presents a fully automated deep-learning pipeline for classifying ovarian cancer images using DenseNet121, K-Means clustering, and transfer learning. Designed for unlabeled medical datasets, the system generates pseudo-labels through clustering and trains a powerful classifier capable of detecting cancer patterns without manually annotated data.
 
@@ -29,7 +29,9 @@ Full fine-tuning with low learning rate
 ├── best_model.h5
 ├── final_ovarian_densenet121.h5
 ├── ovarian_cancer_detection.ipynb
-└── README.md
+└── README.md!
+[Uploading Gemini_Generated_Image_5w8fel5w8fel5w8f.png…]()
+
 
 🧠 Pipeline Overview
 1. Feature Extraction
